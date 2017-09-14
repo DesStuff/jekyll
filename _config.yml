@@ -1,4 +1,3 @@
-include: ["_pages"]
+include: ["_page"]
 include: ["_post"]
 theme: jekyll-theme-cayman
-permalink: /:about.md/
