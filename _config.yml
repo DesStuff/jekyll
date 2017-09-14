@@ -1,5 +1,4 @@
 include: ["_pages"]
 include: ["_post"]
 theme: jekyll-theme-cayman
-permalink: /:2017-09-12 Stuff.md/
 permalink: /:about.md/
